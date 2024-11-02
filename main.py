@@ -1,6 +1,10 @@
 import streamlit as st
 from logics.customer_query_handler import process_user_message
-from pydantic import BaseModel
+from utility import check_password
+
+#check if password is correct
+if not check_password():
+    st.stop()
 
 # region <--------- Streamlit App Configuration --------->
 st.set_page_config(

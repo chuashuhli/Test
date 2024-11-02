@@ -1,0 +1,87 @@
+{
+    "ComCare Short-to-Medium-Term Assistance (SMTA)": {
+        "name": "ComCare Short-to-Medium-Term Assistance (SMTA)",
+        "category": "Short-To-Medium Term",
+        "provider": "MSF",
+        "benefits": [
+            "Monthly cash assistance for living expenses",
+            "Assistance with your household bills, i.e. rental, utilities, and/or service and conservancy charges",
+            "Medical assistance​ at public healthcare institutions",
+            "Employment assistance such as job search and/or training",
+            "Referrals for other relevant services"
+        ],
+        "eligibility": [
+            "Singapore Citizen or Permanent Resident (at least one immediate family member in the same household must be a Singapore Citizen)",
+            "Have little or no family support, savings or assets to rely on for your daily needs",
+            "Looking for work or temporarily unable to work due to illness or have to care for children, elderly or other dependants",
+            "Monthly household income per capita of $800 and below (each applicant’s specific financial circumstances will be assessed)",
+            "Even if your income exceeds these guidelines, you can still approach a Social Service Office (SSO) for assessment if you face financial difficulties. The SSOs will assess each household’s needs, such as employment, family and finances, to ensure that the assistance we provide is holistic"
+        ],
+        "application_process": {
+            "online": "Online via SupportGoWhere",
+            "in_person": "Visit your nearest Social Service Office to apply in person",
+            "help_with_application": "If you need help with your application, please refer to this step-by-step video guide",
+            "documents_required": [
+                "Your identity card or birth certificate (of applicant and all household members). Note: NRIC / FIN of main applicants will not be required for online applications as the login will be via Singpass. If applicants / household members had provided these identification documents in earlier ComCare applications, they will not be required again.",
+                "Updated bank account passbook(s) / statement(s) of applicant and all household members, showing clearly the latest transaction details of at least 1 month",
+                "Other supporting documents, if relevant: Latest utility bill(s) (e.g. Singapore Power (SP), private electricity retailers), Latest Medical Certificate (with duration and fitness for work status), Pay-slips / Employment contract (for employment without CPF contributions), Latest employment / termination letter (for recent changes in employment status), Insurance Letter (for lump-sum / regular payouts by private insurer), Any other supporting documents"
+            ],
+            "data_protection": "The collection, use or disclosure of personal data of relevant individuals was applied in the development of policies and services for lower-income households. In addition to the Personal Data Protection Act, there exist strict policies, processes and safeguards in place to ensure the proper use and protection of personal data by the Government."
+        },
+        "contact": "ComCare Hotline: 1800 222 0000"
+    },
+    "ComCare Long Term Assistance (LTA)": {
+        "name": "ComCare Long Term Assistance (LTA)",
+        "category": "Immediate Social Assistance",
+        "provider": "MSF",
+        "benefits": [
+            "Cash assistance",
+            "Supermarket vouchers",
+            "Food rations"
+        ],
+        "eligibility": [
+            "Singapore Citizen or Permanent Resident (at least one immediate family member in the same household must be a Singapore Citizen)",
+            "Monthly household income per capita of $800 and below"
+        ],
+        "application_process": {
+            "approach_partners": [
+                "Social Service Offices",
+                "Community Centre, Community Club, or Grassroots Leader",
+                "Family Service Centre (FSC) (for FSC clients)",
+                "Transitional Shelter (TS) (for TS clients)",
+                "Community Justice Centre (CJC) (for CJC clients)"
+            ],
+            "documents_required": [
+                "Your identity card or birth certificate (of applicant and all household members). Note: NRIC / FIN of main applicants will not be required for online applications as the login will be via Singpass. If applicants / household members had provided these identification documents in earlier ComCare applications, they will not be required again.",
+                "Updated bank account passbook(s) / statement(s) of applicant and all household members, showing clearly the latest transaction details of at least 1 month",
+                "Other supporting documents, if relevant: Latest utility bill(s) (e.g. Singapore Power (SP), private electricity retailers), Latest Medical Certificate (with duration and fitness for work status), Pay-slips / Employment contract (for employment without CPF contributions), Latest employment / termination letter (for recent changes in employment status), Insurance Letter (for lump-sum / regular payouts by private insurer), Any other supporting documents"
+            ]
+        },
+        "contact": "ComCare Hotline: 1800 222 0000"
+    },
+    "ComCare Interim Assistance": {
+        "name": "ComCare Interim Assistance",
+        "category": "Long-Term Social Assistance",
+        "provider": "MSF",
+        "benefits": [
+            "Monthly cash assistance for living expenses",
+            "Assistance with medical expenses at public healthcare institutions",
+            "Free or highly subsidised access to social support services"
+        ],
+        "eligibility": [
+            "Singapore Citizens and Permanent Residents",
+            "Unable to work because of old age, illness or disability",
+            "Elderly persons who receive a small monthly payout from sources such as CPF Retirement Sum/CPF Life",
+            "Elderly persons whose children are low income themselves i.e. monthly household income per capita of $800 and below"
+        ],
+        "application_process": {
+            "in_person": "You can apply at any Social Service Office.",
+            "documents_required": [
+                "Your identity card or birth certificate (of applicant and all household members). Note: NRIC / FIN of main applicants will not be required for online applications as the login will be via Singpass. If applicants / household members had provided these identification documents in earlier ComCare applications, they will not be required again.",
+                "Updated bank account passbook(s) / statement(s) of applicant and all household members, showing clearly the latest transaction details of at least 1 month",
+                "Other supporting documents, if relevant: Latest utility bill(s) (e.g. Singapore Power (SP), private electricity retailers), Latest Medical Certificate (with duration and fitness for work status), Pay-slips / Employment contract (for employment without CPF contributions), Latest employment / termination letter (for recent changes in employment status), Insurance Letter (for lump-sum / regular payouts by private insurer), Any other supporting documents"
+            ]
+        },
+        "contact": "ComCare Hotline: 1800 222 0000"
+    }
+}
